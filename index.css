@@ -1,0 +1,42 @@
+/*
+    Name: Thomas Cluff
+    Date: September 28, 2018
+    Section: CSE 154 AB
+    This is the index.css page for my portfolio of web development work. 
+    It is used by all pages in my portfolio to give the site a consistent look and feel. 
+*/
+body {
+    background-color: lightgray;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    color: rebeccapurple;
+    font-size: 40px;
+    margin: 10px;
+    text-shadow: gray 8px 3px 10px;
+}
+
+nav {
+    list-style-type: circle;
+}
+
+li {
+    color: goldenrod;
+}
+
+img {
+    width: 300px;
+}
+
+.selected_page {
+    color: rebeccapurple;
+    font-size: 30px;
+}
+
+.float_right {
+    float: right;
+    margin-right: 30%;
+}
