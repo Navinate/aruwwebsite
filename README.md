@@ -1,4 +1,4 @@
-really basiic website i made as a creative project for my webdev class.
+really basic website i made as a creative project for my webdev class.
 
 I can do better than this.
 
